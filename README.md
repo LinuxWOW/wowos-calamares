@@ -1,2 +1,2 @@
 # wowos-calamares
-calamares pkg build
+wowos-calamares-kde-configs
